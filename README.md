@@ -11,3 +11,4 @@ ARIB字幕のDRCS(外字)をUnicode文字に置換えるための変換テーブ
 * [Caption2Ass_PCR](https://github.com/maki-rxrz/Caption2Ass_PCR):  [UNICODE_cc_DRCS.ini](https://github.com/maki-rxrz/Caption2Ass_PCR/blob/master/bin/ini/Gaiji/UNICODE_cc_DRCS.ini)
 * [TVCaptionMod2](https://github.com/xtne6f/TVCaptionMod2): [TVCaptionMod2_Gaiji_std.txt](https://github.com/xtne6f/TVCaptionMod2/blob/master/gaiji/TVCaptionMod2_Gaiji_std.txt)
 * [arib2ass](https://github.com/Piro77/arib2ass): [drcs_conv.ini](https://github.com/Piro77/arib2ass/blob/master/drcs_conv.ini)
+* [aribb24.js](https://github.com/monyone/aribb24.js): [drcs-NSZ.ts](https://github.com/monyone/aribb24.js/blob/main/src/constants/mapping/drcs-NSZ.ts)
